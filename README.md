@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a software developer who really likes to write, learn and to share. That's why I started Axokoi.com 
-- 📫 How to reach me: Either leave a message at Axokoi or via twitter https://twitter.com/CyberneticKoi
+- 📫 How to reach me: You can leave a message at Axokoi
 <!--
 **IgnacioRondini/IgnacioRondini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
