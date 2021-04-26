@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a software developer who really likes to write, learn and to share. That's why I started Axokoi.com 
-- 📫 How to reach me: You can leave a message at Axokoi
+- 🔭 My side projects are for the moment mainly focused on BandurriaJ! A JavaFx/SpringBoot desktop application for tagging and management of Music discs. You can visit it here --> https://github.com/AxoKoi/BandurriaJ Help would be really appreciated!
 <!--
 **IgnacioRondini/IgnacioRondini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
