@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am a software developer who really likes to write, learn and to share. That's why I started Axokoi.com 
-- 🔭 My side projects are for the moment mainly focused on BandurriaJ! A JavaFx/SpringBoot desktop application for tagging and management of Music discs. You can visit it here --> https://github.com/AxoKoi/BandurriaJ Help would be really appreciated!
+I am a software developer who really likes to write, learn and to share. 
+
+- 🔭 As our daily lives become more and more digital, I have been increasingly aware of the environmental and social impacts of technology. I believe that software should be designed with the environment and society in mind, and that is why I created Axoly Tech, a company focused on responsible IT. We are committed to creating software that is both sustainable and ethical. 
 <!--
 **IgnacioRondini/IgnacioRondini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
